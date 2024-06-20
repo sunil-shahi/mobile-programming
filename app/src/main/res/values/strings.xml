@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ice-Cream Maker</string>
+    <string name="label_select_category">Select Ice-Cream:</string>
+    <string-array name="category_items">
+        <item>Chocolate</item>
+        <item>Vanilla</item>
+        <item>Butterscotch</item>
+    </string-array>
+</resources>
