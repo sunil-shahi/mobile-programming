@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sunil</string>
+    <string name="login_ui_basic">Login</string>
+    <string name="email">Email:</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="password">Password:</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="gender">Gender:</string>
+    <string name="submit">Submit</string>
+    <string name="this_is_home_page">This is Home page</string>
+    <string name="gender_display">Gender:</string>
+
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+
+</resources>
