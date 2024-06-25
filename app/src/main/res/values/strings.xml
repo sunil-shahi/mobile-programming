@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="enter_your_name">Enter your name:</string>
+    <string name="enter_your_username">Enter your username…</string>
+    <string name="enter_your_password">Enter your Password:</string>
+    <string name="your_password">Enter your password…</string>
+    <string name="submit">Submit</string>
+
+    <string-array name="items">
+        <item>Item1</item>
+        <item>Item2</item>
+        <item>Item3</item>
+
+    </string-array>
+</resources>
